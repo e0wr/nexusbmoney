@@ -1,0 +1,4 @@
+name: NexusBMoney
+version: '${project.version}'
+main: ua.aestivus.nexusbmoney.NexusBMoney
+api-version: 1.16
